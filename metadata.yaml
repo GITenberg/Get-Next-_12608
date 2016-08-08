@@ -1,0 +1,33 @@
+_repo: Get-Next-_12608
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hobart, George V. (George Vere)
+    aliases:
+    - McHugh, Hugh
+    - Hobart, G. V. (George Vere)
+    - Lott, Noah
+    - Hobart, George Vere
+    birthdate: 1867
+    deathdate: 1926
+    gutenberg_agent_id: '4454'
+    url: http://www.gutenberg.org/2009/agents/4454
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12608'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- !lcsh 'Humorous stories'
+- GITenberg
+tableOfContents: John Henry on race tipsters -- John Henry on bridge whist -- John
+  Henry on amateur photography -- John Henry on the grip -- John Henry on courting
+  -- John Henry on summer resorts -- John Henry on great men.
+title: Get Next!
+url: http://www.gutenberg.org/ebooks/12608
